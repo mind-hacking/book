@@ -1,6 +1,4 @@
-# Introduction
-
-## JOIN THE MIND HACKING MOVEMENT. <a id="join-the-mind-hacking-movement"></a>
+# Join the Mind Hacking Movement
 
 _Mind Hacking_ teaches you how to reprogram your thinking -- like reprogramming a computer -- to give you increased mental efficiency and happiness. The entire book is available here for free:  
 [Click here to start reading _Mind Hacking_.](my-story.md)

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Join the Mind Hacking Movement](README.md)
 * [My Story](my-story.md)
 * [What is Mind Hacking?](what-is-mind-hacking.md)
 * [Hello World](hello-world.md)
